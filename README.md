@@ -1,2 +1,2 @@
-# General_docs
+# general_docs
 repo of docs that may be useful
